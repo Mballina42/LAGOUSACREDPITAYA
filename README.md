@@ -3,4 +3,5 @@ Este proyecto recopila los avances realizados por [Escaramujo Project and LAGO P
 
 ## Descripción
 El diseño busca controlar el voltaje de alimentación para la placa de la base de un PMT Photonix, obteniendo la linea de alimentación principal de la Red Pitaya, a su vez enviar información de temperatura, presión barométrica y GPS. 
+![Diagrama General](https://github.com/Mballina42/LAGOUSACREDPITAYA/blob/main/Imagenes/DiagramaGeneral.png)
 ### Requerimientos
