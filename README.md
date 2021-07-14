@@ -1,6 +1,8 @@
 # HARDWARE PARA LAGO USAC CON RED PITAYA
 Este proyecto recopila los avances realizados por [Escaramujo Project and LAGO Project matching hardware ](https://github.com/ECFM-USAC/EscaramujoLagoMatch), realizando cambios en el diseño de la PCB.
 
+[![repo size](https://img.shields.io/github/repo-size/Mballina42/LAGOUSACREDPITAYA)](https://img.shields.io/github/repo-size/Mballina42/LAGOUSACREDPITAYA) [![KiCad](https://img.shields.io/badge/KiCad-5.1.10-yellow)](https://img.shields.io/badge/KiCad-5.1.10-yellow) [![FlatCAM](https://img.shields.io/badge/FlatCAM-8.994BETA-green)](https://img.shields.io/badge/FlatCAM-8.994BETA-green)
+
 ## Descripción
 El diseño busca controlar el voltaje de alimentación para la placa de la base de un PMT Photonix, obteniendo la linea de alimentación principal de la Red Pitaya, a su vez enviar información de temperatura, presión barométrica y GPS. 
 
@@ -33,4 +35,8 @@ El diseño del circuito y la PCB se realizaron en el software KiCad. Se muestra 
 <img src="Imagenes/topPCB.jpg" width="40%" height="40%" style="vertical-align:middle" />
 
 Dentro de la carpeta Gerber, se encuentra el gerber de cada parte del PCB y dentro de la carpeta CNC_code se encuentra el código para CNC elaborado en el software **FlatCAM**.
+
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](MIT-LICENSE.txt)
 
